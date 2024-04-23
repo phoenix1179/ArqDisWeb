@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Perfil de Red Social</title>
+</head>
+<body>
+
+    <!-- Foto de perfil -->
+    <h1>Foto de perfil</h1>
+    <img src="ruta/a/la/imagen.jpg" alt="Mi foto de perfil">
+
+    <!-- Datos personales -->
+    <h2>Datos personales</h2>
+    <ul>
+        <li>Nombre y apellidos: Juan Pérez</li>
+        <li>Fecha y lugar de nacimiento: 1 de enero de 1990, Ciudad de México</li>
+        <li>Dirección: Calle Principal, 123</li>
+        <li>Teléfono de contacto: 555-1234</li>
+        <li>Correo electrónico: juan@example.com</li>
+    </ul>
+
+    <!-- Formación académica -->
+    <h2>Formación académica</h2>
+    <ul>
+        <li>Titulación obtenida: Ingeniero en Informática</li>
+        <li>Años de inicio y finalización: 2010 - 2015</li>
+        <li>Centro donde se estudió: Universidad Nacional</li>
+    </ul>
+
+    <!-- Experiencia profesional -->
+    <h2>Experiencia profesional</h2>
+    <ul>
+        <li>Puesto ocupado: Desarrollador Web</li>
+        <li>Nombre de la empresa: Empresa XYZ</li>
+        <li>Localidad: Ciudad de México</li>
+        <li>Tareas desarrolladas: Desarrollo de aplicaciones web</li>
+        <li>Fechas de inicio y finalización: 2015 - 2020</li>
+    </ul>
+
+    <!-- Idiomas -->
+    <h2>Idiomas</h2>
+    <ul>
+        <li>Inglés: Alto (lectura, habla y escritura)</li>
+        <li>Francés: Básico (lectura), Elemental (habla y escritura)</li>
+        <li>Cursos específicos: Curso de Inglés Avanzado, Certificación TOEFL</li>
+    </ul>
+
+    <!-- Informática -->
+    <h2>Informática</h2>
+    <ul>
+        <li>Nivel de conocimientos: Experto</li>
+        <li>Programas que se manejan: HTML, CSS, JavaScript, Python</li>
+        <li>Cursos realizados: Curso de Desarrollo Web, Curso de Python Avanzado</li>
+    </ul>
+
+    <!-- Gustos y preferencias -->
+    <h2>Gustos y preferencias</h2>
+    <ul>
+        <li>Libros: El Principito, Cien años de soledad</li>
+        <li>Películas: El Padrino, Pulp Fiction</li>
+        <li>Hobbies: Viajar, tocar la guitarra</li>
+    </ul>
+
+    <!-- Detalles sobre ti -->
+    <h2>Detalles sobre ti</h2>
+    <p>Soy un apasionado del desarrollo web y me encanta aprender nuevas tecnologías.</p>
+
+    <!-- Tabla -->
+    <h2>Tabla de referencia</h2>
+    <table border="1">
+        <tr>
+            <th>Columna 1</th>
+            <th>Columna 2</th>
+        </tr>
+        <tr>
+            <td>Dato 1</td>
+            <td>Dato 2</td>
+        </tr>
+    </table>
+
+</body>
+</html>
